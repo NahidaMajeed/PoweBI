@@ -1,3 +1,3 @@
-## This is a powerBI report of a Banglore Housing Price and availablity
+## This is a powerBI report of a Banglore Housing Price and availability
 
 ![Power BI Report Screenshot](screenshot.jpg)
